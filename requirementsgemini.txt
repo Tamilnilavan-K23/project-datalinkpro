@@ -1,0 +1,9 @@
+ install google-generativeai
+ install chromadb==0.3.26
+ install -U langchain-community 
+ install langchain-google-genai
+ install google-generativeai
+ install requests
+ install couchdb
+ urllib3==1.24.2
+
