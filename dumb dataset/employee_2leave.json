@@ -1,0 +1,27 @@
+{
+    "_id": "leave_2_002",
+    "_rev": "1-da2e38406aff93000dade2cc391ac49e",
+    "leaves": [
+      {
+        "id": "leave_3_JAN2024",
+        "rev": "1-zy12xw34vu56ts79",
+        "date": "10/01/2024",
+        "type": "leave",
+        "employee_id": "002"
+      },
+      {
+        "id": "leave_3_FEB2024",
+        "rev": "1-po12iu34uy56op79",
+        "date": "12/02/2024",
+        "type": "leave",
+        "employee_id": "002"
+      },
+      {
+        "id": "leave_3_MAR2024",
+        "rev": "1-lk12jm34kn56bn79",
+        "date": "15/03/2024",
+        "type": "leave",
+        "employee_id": "002"
+      }
+    ]
+  }
